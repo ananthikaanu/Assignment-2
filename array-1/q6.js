@@ -1,4 +1,3 @@
-
 let inputString = "I'm learning javascript basics";
 let words = [];
 let currentWord = "";
