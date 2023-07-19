@@ -1,5 +1,5 @@
-let arr=['Ananthika',23,'F']
-var obj={
+const arr=['Ananthika',23,'F']
+const obj={
     name:'Ananthika',
     age:23,
     gender:'F',
