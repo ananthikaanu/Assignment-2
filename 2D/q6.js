@@ -1,5 +1,5 @@
 const a=['edstem','techn'];
-var b='';
+let b='';
 for(let i=0;i<a.length;i++)
     {
     for(let j=0;j<a[i].length;j++)

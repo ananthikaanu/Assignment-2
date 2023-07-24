@@ -1,7 +1,7 @@
 const arr=[[1,2,3],[4,5,6],[7,8,9]];
-var b=0;
-var c=0;
-var j
+let b=0;
+let c=0;
+let j
 for(let i=0;i<arr.length;i++) 
     {
         b=b+arr[i][i];
