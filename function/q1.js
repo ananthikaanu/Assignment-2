@@ -1,5 +1,6 @@
+const a=5;
+const b=6;
 function addNumbers(a,b){
-    return a+b;}
-var a=5;
-var b=6;
-console.log(addNumbers(a,b));
+    return a+b
+}
+console.log(addNumbers(a,b))
